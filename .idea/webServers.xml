@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0d862298-902c-4ef4-ab31-90202eff7768" name="cleancar">
+        <fileTransfer accessType="SFTP" host="91.228.153.121" port="22" sshConfigId="fe5be563-3edd-4091-a59c-192a37b9a0fa" sshConfig="root@91.228.153.121:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

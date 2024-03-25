@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "615319254989",
+    "project_id": "car-washing-d996b",
+    "storage_bucket": "car-washing-d996b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615319254989:android:b41699bfc01dc28e9f7684",
+        "android_client_info": {
+          "package_name": "com.example.car_wash_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615319254989-2he811ekllbh8vhrfj6a646qs1kp34t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApQF-gyvLUrAcGNca2AppM8fp29Q8Pkkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615319254989-2he811ekllbh8vhrfj6a646qs1kp34t2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615319254989-l3kg7dcbruik424uehbs1qiu412fakho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carWashEmployee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
